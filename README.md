@@ -11,23 +11,37 @@ This repository contains an Exploratory Data Analysis (EDA) of the Harry Potter 
 
 ## Dataset Overview
 The dataset used for this analysis is sourced from kaggle.com and includes the following information:
+
 Characters: Details about the characters in the Harry Potter universe, such as their names, roles, affiliations, and traits.
+
 Chapters: Details about chapters in the book i.e. the Harr Potter Series.
+
 Spells: Information about the magical spells mentioned in the books, including their names, types, and effects.
+
 Movies: Information about the movies, their budget, releasing year, run time, box office collection etc.
+
 Dialogues: Details about different dialogues used by the characters.
+
 Places: Details about various locations used in books as well as movies.
 
 ## Exploratory Data Analysis
 In this EDA, we explore various aspects of the Harry Potter dataset, including:
+
 Character Analysis: Examining the distribution of characters across different roles and affiliations. Analyzing the most mentioned characters and their traits.
+
 Spell Analysis: Investigating the types of spells, their frequencies, and their effects. Identifying the most powerful spells in the Harry Potter universe.
+
 Movie Analysis: Exploring the release dates of the movies and their duration. Investigating the popularity and box office collection of each movie in the series.
+
 ... and many more analysis
 
 ## Usage
 To reproduce or build upon this EDA, you can follow these steps:
+
 i. Clone this repository to your local machine.
+
 ii. Install the necessary dependencies and libraries.
+
 iii. Explore the Jupyter notebooks in the notebooks/ directory to view the analysis process and results.
+
 iv. Adapt and modify the code as needed to suit your requirements.
